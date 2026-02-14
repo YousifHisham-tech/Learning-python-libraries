@@ -28,7 +28,6 @@ All content is organized as **Jupyter Notebooks (.ipynb)**, so you can read and 
   - Series & DataFrames
   - Reading and working with data
   - Filtering, sorting, grouping
-  - Handling missing values
 
 ✅ **4) Matplotlib**
 - `Matplotlib.ipynb`
